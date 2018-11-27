@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-  <!-- InstanceBegin template="/Templates/philipe-cavalcante-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -8,22 +7,20 @@
   
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <!-- InstanceBeginEditable name="doctitle" -->
+  <!-- TemplateBeginEditable name="doctitle" -->
   <title>Unsplash Philipe Cavalcante</title>
-  <!-- InstanceEndEditable -->
-  <!-- InstanceBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
-  <!-- InstanceEndEditable -->
   </head>
   <body>
+    <!-- TemplateBeginEditable name="master templ philip " -->master templ philip <!-- TemplateEndEditable -->
     <div class="container">
       <h1>Unsplash Photographer Spotlight</h1>
       <p>[About Me]</p>
-      <!-- InstanceBeginEditable name="master-content" -->
-      <nav aria-label="breadcrumb">
+<nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-          <li class="breadcrumb-item active" aria-current="page"><a href="../index.html">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page"><a href="../philipe-cavalcante/index.html">Home</a></li>
           <!-- TemplateBeginEditable name="breadcrumb-trail" -->
           <li class="breadcrumb-item active" aria-current="page">Philipe Cavalcante</li>
           <li class="breadcrumb-item active" aria-current="page">Example Photo</li>
@@ -51,7 +48,6 @@
         <div class="col-12 col-sm-6 col-md-9"> </div>
         <p>This is where content goes.</p>
       </div>
-      <!-- InstanceEndEditable -->
       <p>[Footer]</p>
     </div>
     <!-- Optional JavaScript --> 
@@ -60,5 +56,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-  <!-- InstanceEnd -->
 </html>
